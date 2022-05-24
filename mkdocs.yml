@@ -1,4 +1,5 @@
 site_name: mpm wiki
-docs_dir: "./"
+docs_dir: "docs"
+site_dir: "site"
 
 theme: readthedocs
